@@ -8,8 +8,8 @@
     "sourceCodeHash": "0x41d8b625f3be94379cc746ce19b068cec2f3b490d82f42c53350f2cf428f1766"
   },
   "src/L1/L1CrossDomainMessenger.sol:L1CrossDomainMessenger": {
-    "initCodeHash": "0xb9fda89d2a7ee0ee3a7bd11486e9206675b469c7dcd43bf504ba6f8cd792853b",
-    "sourceCodeHash": "0x00ccab5d53a7c8a48fa9449aac32b1b37d41f824a0f9c91961d23f8ce5ca2ff8"
+    "initCodeHash": "0x72bc61da603f773ac5c0047243bd2f5a3656f605b801374c3bf3a024a20adaa9",
+    "sourceCodeHash": "0xd80715e59559334aad90acb22cda7e9122739a34a3fa21706959cae3e2cfbcad"
   },
   "src/L1/L1ERC721Bridge.sol:L1ERC721Bridge": {
     "initCodeHash": "0x8754f400a5110749e26f9820e0532b86f0122a6b8ceb10028fd997d39b023ff7",
